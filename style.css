@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'benjamin';
+    src: url('Benjamin.ttf') format('truetype');
+    
+    }
+
+
+body {
+    background-color:black;
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    
+}
+header {
+    padding: 5px;
+    margin: 0;
+    background-color: #62B236;
+    align-items: center;
+}
+#ecpc {
+    justify-content: center;
+    margin-inline-start:  50px;
+    color: white;
+    font-size: 50px;
+    text-shadow: 4px 4px 10px #000000;
+}
+
+
+
+.container {
+padding-right: 10%;
+padding-left: 10px;
+
+height: 1115px;
+border-right: 5px solid #62B236;
+background-color: #000000;
+position: absolute;
+
+
+}
+
